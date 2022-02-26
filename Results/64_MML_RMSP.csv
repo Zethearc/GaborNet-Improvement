@@ -1,0 +1,11 @@
+Epoch,Batch Size,Loss,Optimizer,Train Accuracy,Train Loss,Validation Accuracy,Validation Loss
+1,64,MultiMarginLoss,RMSP,0.599,0.4328,0.6134,0.3909
+2,64,MultiMarginLoss,RMSP,0.7218,0.3017,0.7579,0.2593
+3,64,MultiMarginLoss,RMSP,0.7593,0.2556,0.7608,0.2549
+4,64,MultiMarginLoss,RMSP,0.7886,0.2244,0.7933,0.226
+5,64,MultiMarginLoss,RMSP,0.8125,0.1975,0.6984,0.3025
+6,64,MultiMarginLoss,RMSP,0.8368,0.1739,0.8429,0.1677
+7,64,MultiMarginLoss,RMSP,0.8545,0.1559,0.8385,0.1794
+8,64,MultiMarginLoss,RMSP,0.8692,0.1401,0.8457,0.1629
+9,64,MultiMarginLoss,RMSP,0.8894,0.1206,0.8672,0.1443
+10,64,MultiMarginLoss,RMSP,0.9016,0.1071,0.8688,0.1492

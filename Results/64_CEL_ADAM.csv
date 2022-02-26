@@ -1,0 +1,11 @@
+Epoch,Batch Size,Loss,Optimizer,Train Accuracy,Train Loss,Validation Accuracy,Validation Loss
+1,64,CrossEntropyLoss,Adam,0.5723,0.6680,0.6497,0.6283
+2,64,CrossEntropyLoss,Adam,0.6966,0.5865,0.7463,0.5283
+3,64,CrossEntropyLoss,Adam,0.7640,0.4988,0.7857,0.4673
+4,64,CrossEntropyLoss,Adam,0.8018,0.4366,0.7924,0.4398
+5,64,CrossEntropyLoss,Adam,0.8287,0.3830,0.8379,0.3685
+6,64,CrossEntropyLoss,Adam,0.8502,0.3429,0.8452,0.3555
+7,64,CrossEntropyLoss,Adam,0.8696,0.3064,0.8554,0.3310
+8,64,CrossEntropyLoss,Adam,0.8835,0.2791,0.8605,0.3251
+9,64,CrossEntropyLoss,Adam,0.8972,0.2495,0.8678,0.3085
+10,64,CrossEntropyLoss,Adam,0.9065,0.2278,0.8542,0.3333

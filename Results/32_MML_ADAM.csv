@@ -1,0 +1,11 @@
+Epoch,Batch Size,Loss,Optimizer,Train Accuracy,Train Loss,Validation Accuracy,Validation Loss
+1,32,MultiMarginLoss,Adam,0.6146,0.4153,0.6663,0.3574
+2,32,MultiMarginLoss,Adam,0.7071,0.3147,0.7379,0.285
+3,32,MultiMarginLoss,Adam,0.7596,0.2552,0.7726,0.2365
+4,32,MultiMarginLoss,Adam,0.8,0.2127,0.8061,0.204
+5,32,MultiMarginLoss,Adam,0.8312,0.1766,0.8225,0.1878
+6,32,MultiMarginLoss,Adam,0.8564,0.1524,0.8295,0.1784
+7,32,MultiMarginLoss,Adam,0.872,0.1356,0.8491,0.1628
+8,32,MultiMarginLoss,Adam,0.883,0.1242,0.859,0.1534
+9,32,MultiMarginLoss,Adam,0.8948,0.1131,0.8664,0.1505
+10,32,MultiMarginLoss,Adam,0.9077,0.0994,0.873,0.1345

@@ -1,0 +1,11 @@
+Epoch,Batch Size,Loss,Optimizer,Train Accuracy,Train Loss,Validation Accuracy,Validation Loss
+1,16,CrossEntropyLoss,RMSprop,0.6359,0.6295,0.7128,0.5706
+2,16,CrossEntropyLoss,RMSprop,0.7712,0.4871,0.7876,0.453
+3,16,CrossEntropyLoss,RMSprop,0.8308,0.3811,0.8358,0.3715
+4,16,CrossEntropyLoss,RMSprop,0.869,0.3051,0.8643,0.3113
+5,16,CrossEntropyLoss,RMSprop,0.8982,0.2486,0.8867,0.2644
+6,16,CrossEntropyLoss,RMSprop,0.9162,0.2042,0.9008,0.2414
+7,16,CrossEntropyLoss,RMSprop,0.9317,0.1713,0.8912,0.2962
+8,16,CrossEntropyLoss,RMSprop,0.944,0.1387,0.9014,0.2645
+9,16,CrossEntropyLoss,RMSprop,0.9557,0.1126,0.9025,0.3146
+10,16,CrossEntropyLoss,RMSprop,0.9626,0.0954,0.9085,0.295

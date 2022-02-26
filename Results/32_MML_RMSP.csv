@@ -1,0 +1,11 @@
+Epoch,Batch Size,Loss,Optimizer,Train Accuracy,Train Loss,Validation Accuracy,Validation Loss
+1,32,MultiMarginLoss,RMSprop,0.6271,0.4083,0.704,0.3179
+2,32,MultiMarginLoss,RMSprop,0.7457,0.2726,0.7495,0.2671
+3,32,MultiMarginLoss,RMSprop,0.8006,0.2125,0.8032,0.2305
+4,32,MultiMarginLoss,RMSprop,0.8302,0.1814,0.8347,0.1748
+5,32,MultiMarginLoss,RMSprop,0.8543,0.1553,0.8478,0.1628
+6,32,MultiMarginLoss,RMSprop,0.8778,0.1325,0.8623,0.1472
+7,32,MultiMarginLoss,RMSprop,0.89,0.1172,0.8787,0.1292
+8,32,MultiMarginLoss,RMSprop,0.9079,0.0998,0.8736,0.1338
+9,32,MultiMarginLoss,RMSprop,0.9174,0.0891,0.8683,0.1442
+10,32,MultiMarginLoss,RMSprop,0.928,0.0795,0.8824,0.1289
